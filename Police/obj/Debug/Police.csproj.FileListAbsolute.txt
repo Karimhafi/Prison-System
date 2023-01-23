@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Police\Police\bin\Debug\Police.exe.config
+C:\Users\hp\source\repos\Police\Police\bin\Debug\Police.exe
+C:\Users\hp\source\repos\Police\Police\bin\Debug\Police.pdb
+C:\Users\hp\source\repos\Police\Police\bin\Debug\Guna.UI.dll
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.Form1.resources
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.Properties.Resources.resources
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.csproj.CopyComplete
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.exe
+C:\Users\hp\source\repos\Police\Police\obj\Debug\Police.pdb
