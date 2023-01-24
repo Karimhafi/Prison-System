@@ -1,6 +1,4 @@
-# Prison-System
-A C# Application Prison System .
-Prison-System
+
 A C# Application Prison System.
 
 Guna UI
